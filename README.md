@@ -7,7 +7,11 @@ A nerd and a scientist, usually mangling data and inflicting data viz on others 
 
 - Currently trying to grok as much as a I can about data viz
 
+
+
 [![Jesus Castagnetto's Github stats](https://github-readme-stats.vercel.app/api?username=jmcastagnetto&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true)](https://github.com/jmcastagnetto) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcastagnetto&hide=html)](https://github.com/jmcastagnetto)
+
+[![CodersRank.io profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jmcastagnetto&badges=3&show-avatar=false&show-header=false&style=--border-radius:20px)](https://profile.codersrank.io/user/jmcastagnetto)
 
 _Keybase_: [![Keybase XLM](https://img.shields.io/keybase/xlm/jmcastagnetto)](https://keybase.io/jmcastagnetto)
 [![Keybase BTC](https://img.shields.io/keybase/btc/jmcastagnetto)](https://keybase.io/jmcastagnetto)
