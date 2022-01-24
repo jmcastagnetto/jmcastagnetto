@@ -8,3 +8,5 @@ A nerd and a scientist, usually mangling data and inflicting data viz on others 
 
 
 [![Jesus Castagnetto's Github stats](https://github-readme-stats.vercel.app/api?username=jmcastagnetto&show_icons=true&theme=graywhite&include_all_commits=true)](https://github.com/jmcastagnetto)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcastagnetto)](https://github.com/jmcastagnetto)
