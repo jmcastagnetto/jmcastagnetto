@@ -16,3 +16,4 @@ A nerd and a scientist, usually mangling data and inflicting data viz on others 
 _Keybase_: [![Keybase XLM](https://img.shields.io/keybase/xlm/jmcastagnetto)](https://keybase.io/jmcastagnetto)
 [![Keybase BTC](https://img.shields.io/keybase/btc/jmcastagnetto)](https://keybase.io/jmcastagnetto)
 
+<a rel="me" href="https://mastodon.social/@jmcastagnetto">My Mastodon profile</a>
