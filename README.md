@@ -1,6 +1,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7188--1605-yellowgreen)](https://orcid.org/0000-0002-7188-1605)
 [![Keybase PGP](https://img.shields.io/keybase/pgp/jmcastagnetto)](https://keybase.io/jmcastagnetto)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jmcastagnetto?label=&style=social)](https://twitter.com/jmcastagnetto)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/108290965631883805?domain=https%3A%2F%2Fmastodon.social)](https://mastodon.social/@jmcastagnetto)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fcastagnetto.site)](https://castagnetto.site)
 
 A nerd and a scientist, usually mangling data and inflicting data viz on others :wink:
