@@ -14,7 +14,7 @@ A nerd and a scientist, usually mangling data and inflicting data viz on others 
 
 ![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=jmcastagnetto&hide=html)
 
-[![CodersRank.io profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jmcastagnetto&badges=3&show-avatar=false&width=240&style=--border-radius:20px)](https://profile.codersrank.io/user/jmcastagnetto)
+[CodersRank.io profile](https://profile.codersrank.io/user/jmcastagnetto)
 
 _Keybase_: [![Keybase XLM](https://img.shields.io/keybase/xlm/jmcastagnetto)](https://keybase.io/jmcastagnetto)
 [![Keybase BTC](https://img.shields.io/keybase/btc/jmcastagnetto)](https://keybase.io/jmcastagnetto)
